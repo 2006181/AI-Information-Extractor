@@ -48,7 +48,7 @@ Follow these steps to run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/2006181/AI-Information-Extractort
+git clone https://github.com/2006181/AI-Information-Extractor.git
 ```
 
 Navigate to the project directory:
