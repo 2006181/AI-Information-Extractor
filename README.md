@@ -37,6 +37,9 @@ AI-Information-Extractor/
 ├── .env
 └── .gitignore
 ```
+## DEPLOYMENT LINK 
+
+STREAMLIT - https://ai-information-extractor-igvwrqtxabrf5bxifsd5rm.streamlit.app/
 
 ## 🚀 Getting Started
 
